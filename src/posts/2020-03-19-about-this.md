@@ -1,5 +1,5 @@
 ---
-title: About this template
+title: About
 date: 2020-06-21T12:36:40.008Z
 ---
 
