@@ -1,6 +1,6 @@
 ---
-title: "How to set up an emergency website"
-date: 2020-03-20T18:00
+title: How to set up an emergency website
+date: 2020-06-21T12:37:02.511Z
 ---
 
 To publish a website with this template, there are two options, depending on your technical skillset. Choose which one describes you best:
